@@ -1,0 +1,14 @@
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\StringAndStringBuilder-Demo\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.exe.config
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\StringAndStringBuilder-Demo\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\StringAndStringBuilder-Demo\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.pdb
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\StringAndStringBuilder-Demo\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\StringAndStringBuilder-Demo\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\StringAndStringBuilder-Demo\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\StringAndStringBuilder-Demo\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.pdb
+D:\Corporate\Nordic Academy\C#\Demos\StringBuilderAndStringAPIDemo\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.exe.config
+D:\Corporate\Nordic Academy\C#\Demos\StringBuilderAndStringAPIDemo\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.exe
+D:\Corporate\Nordic Academy\C#\Demos\StringBuilderAndStringAPIDemo\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.pdb
+D:\Corporate\Nordic Academy\C#\Demos\StringBuilderAndStringAPIDemo\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\C#\Demos\StringBuilderAndStringAPIDemo\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\C#\Demos\StringBuilderAndStringAPIDemo\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.exe
+D:\Corporate\Nordic Academy\C#\Demos\StringBuilderAndStringAPIDemo\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.pdb
